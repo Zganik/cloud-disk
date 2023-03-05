@@ -2,13 +2,14 @@
   display: flex;
   height: 50px;
   justify-content: center;
-  background-color: white;
+  background-color: hsl(119, 100%, 50%);
   width: 100%;
 }
 .navbar__header {
   margin-left: 10px;
   font-size: 24px;
   font-weight: 700;
+  color: blue;
 }
 .navbar__login {
   margin-left: auto;
